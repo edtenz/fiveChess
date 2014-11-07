@@ -1,4 +1,4 @@
-fiveChess
+实现人机对弈的五子棋
 =========
 
 Man-machine five chess game written with JAVA 
